@@ -30,7 +30,7 @@ Nossa infraestrutura web e sistemas internos são desenvolvidos com as melhores 
 * **Banco de Dados:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 * **Infraestrutura & Containerização:** ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 * **Segurança & Rede:** ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy-1F8CEB?style=flat-square&logo=caddy&logoColor=white)
-* **DevSecOps & CI/CD:** ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) Fortify SAST/DAST
+* **DevSecOps & CI/CD:** ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Fortify](https://img.shields.io/badge/🛡️_Fortify_SAST%2FDAST-00508F?style=flat-square)
 
 > 🔒 **Segurança em 1º Lugar:** Nossa infraestrutura conta com análise estática de código, roteamento isolado via Cloudflare Tunnels, e deploy automatizado em servidores privados e laboratórios de homologação.
 
